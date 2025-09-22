@@ -23,3 +23,6 @@ Can be obtained as a EXE (Binaries) or downloaded
 as MinGW Package using pacman by:
 >$ pacman -S mingw-w64-x86_64-qemu
 ---------------------------------------------------------------------------------------------------
+NÃO ATUALIZADO
+
+Sistema de arquivos padrão usado em ISOs: ISO9660
